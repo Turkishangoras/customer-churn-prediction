@@ -165,7 +165,7 @@ python -m streamlit run app/streamlit_app.py
 
 **Ali Nawwaf Fathuhy**
 
-* GitHub: https://github.com/Turkishangora
+* GitHub: https://github.com/Turkishangoras
 
 ---
 
